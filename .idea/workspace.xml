@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8be12019-de96-4f9d-9801-bcef46497f20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i9IOwEKnNkFEKGTrSiu7KF1jDH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8be12019-de96-4f9d-9801-bcef46497f20" name="Default Changelist" comment="" />
+      <created>1601313352450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601313352450</updated>
+      <workItem from="1601313353495" duration="10368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="857" y="463" key="Github.ShareDialog" timestamp="1601326397746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="857" y="463" key="Github.ShareDialog/1930.-433.1600.860/564.-768.1366.728/0.0.1920.1040/-802.-768.1366.728@0.0.1920.1040" timestamp="1601326397746" />
+    <state x="575" y="298" key="Vcs.Push.Dialog.v2" timestamp="1601326567163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="575" y="298" key="Vcs.Push.Dialog.v2/1930.-433.1600.860/564.-768.1366.728/0.0.1920.1040/-802.-768.1366.728@0.0.1920.1040" timestamp="1601326567163" />
+    <state x="2073" y="-252" width="672" height="678" key="search.everywhere.popup" timestamp="1601319515805">
+      <screen x="1930" y="-433" width="1600" height="860" />
+    </state>
+    <state x="2073" y="-252" width="672" height="678" key="search.everywhere.popup/1930.-433.1600.860/564.-768.1366.728/0.0.1920.1040/-802.-768.1366.728@1930.-433.1600.860" timestamp="1601319515805" />
+    <state x="813" y="356" key="svn.repositoryBrowser" timestamp="1601326261650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="813" y="356" key="svn.repositoryBrowser/1930.-433.1600.860/564.-768.1366.728/0.0.1920.1040/-802.-768.1366.728@0.0.1920.1040" timestamp="1601326261650" />
+  </component>
+</project>
